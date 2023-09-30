@@ -1,0 +1,2 @@
+visited = []
+visited.append([2,3]
